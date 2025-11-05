@@ -44,6 +44,8 @@ Me encanta trabajar con arquitecturas escalables, componentes reutilizables y nu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolozada030&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
+---
+
 ### 🌍 Conéctate conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-andres-lozada-perea-372702202/" target="_blank">
