@@ -35,11 +35,6 @@ Me encanta trabajar con arquitecturas escalables, componentes reutilizables y nu
 - ⚙️ Apasionado por las buenas prácticas, el rendimiento y la escalabilidad.  
 - 💬 Me encanta compartir conocimiento y aprender en comunidad.  
 - 🎯 Enfocado en crear productos que realmente generen impacto.  
-
----
-
-
-
 ---
 
 ### 🌍 Conéctate conmigo
